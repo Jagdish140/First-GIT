@@ -9,3 +9,8 @@ z=9+3
 #Substarction Function
 
 a= 5-3
+
+
+#Division Function
+
+d=10/5
